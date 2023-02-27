@@ -22,7 +22,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-Solution URL: [Add solution URL here](https://your-solution-url.com)
+Solution URL: [https://seismicman.github.io/02-product-preview-card-component/](https://seismicman.github.io/02-product-preview-card-component/)
 
 ## My process
 
